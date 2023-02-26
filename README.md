@@ -1,1 +1,2 @@
-# dashboard_showcase-
+# dashboard_showcase
+Showcase for hosting dashboards
